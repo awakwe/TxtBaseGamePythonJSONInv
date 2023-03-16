@@ -11,7 +11,7 @@ comment:  This course introduces coding a text-based adventure game in Python us
 
 -->
 
-# Introduction to Coding a Text-Based Adventure Game in Python using JSON Inventory
+# Intro to Coding a Text-Based Adventure Game in Python using JSON Inv
 Introduction to Coding a Text-Based Adventure Game in Python using JSON Inventory![image](https://user-images.githubusercontent.com/13156704/225758367-9629dfc4-f006-4f24-905e-10e630fe4bcc.png)
 
 Welcome to this course on coding a text-based adventure game in Python using JSON for inventory management. Throughout this course, you will learn the fundamentals of Python programming and JSON while building an interactive game.
