@@ -31,6 +31,7 @@ I can't wait to get started on this adventure with you. Let's dive into the worl
 
 - Variables: Storing data for later use
 - Data Types: int, float, str, bool, list, dict
+
 Variables and Data Types
 ========================
 
